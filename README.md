@@ -77,6 +77,7 @@ Each query is documented with:
 - 📄 sample_data_inserts.sql # Insert statements for sample data
 - 📄 SMS_Sample_Data.xlsx # Structured Excel with sample data
 - 📄 Project Documentation.docx # Project documentation
+- 📄 SMS Database Design # Table & relationship structure design with dbdiagram.io
 - 📄 README.md # Project summary and usage
 
 
