@@ -75,8 +75,8 @@ Each query is documented with:
 📄 DDL.sql # Database table creation scripts
 - 📄 DML.sql # Analytical SQL queries
 - 📄 sample_data_inserts.sql # Insert statements for sample data
-- 📄 University_Sample_Data.xlsx # Structured Excel with sample data
-- 📄 University_Enrollment_Documentation.docx # Project documentation
+- 📄 SMS_Sample_Data.xlsx # Structured Excel with sample data
+- 📄 Project Documentation.docx # Project documentation
 - 📄 README.md # Project summary and usage
 
 
